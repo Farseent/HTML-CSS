@@ -1,0 +1,19 @@
+tr,td,table,th{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.head{
+    text-align: center;
+    background-color: #609DA2;
+}
+.hour{
+    background-color: #DEB887;
+}
+.lunch{
+    background-color: #FF7F50;
+}
+table{
+    width: 50%;
+    margin: auto;
+    margin-top: 300px;
+}
