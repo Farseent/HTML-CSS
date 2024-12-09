@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.catagoryheading{
+    color: red;
+    font-size: 23px;
+    font-weight: bold
+}
+.addressbox{
+    width: 295px;
+    height: 100px;
+}
