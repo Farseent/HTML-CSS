@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.flex{
+    margin-top: auto;
+    background: #744AF6;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.text{
+    color: white;
+    padding-left: 25px;
+    font-weight: bolder;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+img{
+    height: 10px;
+    width: 10px;
+    margin-right: 20px;
+}
+.icon{
+    position: absolute;
+    margin: 15px;
+    height: 20px;
+    width: 20px;
+    
+}
